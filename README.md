@@ -6,4 +6,4 @@ Enter # of desired passwords & desired length (same for each of the desired pass
 
 #### 2. GUESSNUM.PY:
 Run in terminal (python3 guessnum.py)
-The script will have chosen a whole number between 1 and 20 upon being run. Enter a guess, find out if you're correct, and get the answer. 
+When run, the script will choose a whole number between 1 and 20 for you to guess. Enter a guess, find out if you're correct, and get the answer.
